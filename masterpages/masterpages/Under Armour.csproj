@@ -95,7 +95,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="aboutus.aspx" />
-    <Content Include="admin.aspx" />
+    <Content Include="login.aspx" />
     <Content Include="cap.aspx" />
     <Content Include="contact.aspx" />
     <Content Include="css\StyleSheet.css" />
@@ -147,12 +147,12 @@
     <Compile Include="aboutus.aspx.designer.cs">
       <DependentUpon>aboutus.aspx</DependentUpon>
     </Compile>
-    <Compile Include="admin.aspx.cs">
-      <DependentUpon>admin.aspx</DependentUpon>
+    <Compile Include="login.aspx.cs">
+      <DependentUpon>login.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="admin.aspx.designer.cs">
-      <DependentUpon>admin.aspx</DependentUpon>
+    <Compile Include="login.aspx.designer.cs">
+      <DependentUpon>login.aspx</DependentUpon>
     </Compile>
     <Compile Include="cap.aspx.cs">
       <DependentUpon>cap.aspx</DependentUpon>
