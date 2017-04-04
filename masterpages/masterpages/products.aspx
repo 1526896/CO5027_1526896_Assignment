@@ -16,5 +16,5 @@
 <td><a href="sandals.aspx"><img src="image/UAsandals.jpeg" height="300" width="300" alt="UA Fat Tire Sandals"/></a></td></tr>
 </table>
      </div>
-</article>
+</article> 
 </asp:Content>
