@@ -14,7 +14,7 @@
     <div>
         <img src="image/underarmour_logo.png" class="center" height="125" width="250"/>
         <div class="nav">
-        <div class="container1" >  
+        <div class="container1" >   
         <nav>
         <a href="default.aspx">Home</a> |
         <a href="products.aspx">Product</a> |

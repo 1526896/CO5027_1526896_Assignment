@@ -5,7 +5,7 @@
     <article>
       
         <h4><b>Name</b></h4>
-&nbsp;<asp:TextBox ID="TextBox1" runat="server" Height="28px" Width="315px"></asp:TextBox>
+&nbsp;<asp:TextBox ID="TextBox1" runat="server" Height="28px" Width="315px"></asp:TextBox> 
         <br />
         <h4><b>Phone Number</b></h4>
 &nbsp;<asp:TextBox ID="TextBox2" runat="server" Height="28px" Width="315px"></asp:TextBox>
