@@ -10,5 +10,5 @@
     outfit built to keep competitors cool, dry and light over the span of an amusement, practice or exercise. 
     The innovation behind Under Armour's differing item variety for men, ladies and youth is mind boggling, yet the program for receiving the rewards is basic: wear HeatGear® when it is hot, ColdGear® when it is chilly, and AllSeasonGear® between the extremes.</p>
 <p>Under Armour's main goal is to improve all competitors through ethusiasm, plan and the tireless quest for development.</p>
-</div>
+</div> 
 </asp:Content>
