@@ -1,0 +1,105 @@
+﻿body {
+    background-color: #ffffdd;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#top_header {
+    font-family: 'Bodoni MT';
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 4px;
+}
+
+#top_navigation {
+    clear: both;
+    padding: 7PX 7PX;
+    background-color: #fee8c8;
+    font-family: "Consolas";
+    list-style-type: none;
+    border: double;
+    font-size: 15px;
+    text-align: center;
+    margin-left: 0px 0px;
+}
+
+
+    #top_navigation ul {
+        margin: 2px;
+        padding: 1px;
+    }
+
+        #top_navigation ul li {
+            display: inline;
+        }
+
+            #top_navigation ul li a {
+                cursor: pointer;
+                color: black;
+                text-decoration: none;
+                padding: 0.5em 0.5em;
+                margin: 10px;
+            }
+
+                #top_navigation ul li a:hover {
+                    color: white;
+                    background-color: #313131;
+                }
+
+
+article {
+    margin: auto;
+    width: 80%;
+    border: 3px solid black;
+    background-color: #ffffdd;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+
+#img1 {
+    margin: auto auto 0px auto;
+    padding-top: 2px;
+    text-align: center;
+    font-family: "Lucida Sans";
+    font-size: 20px;
+    height: 288px;
+}
+
+
+#content1 {
+    font-family: "Lucida Sans Unicode";
+    font-size: 15px;
+    color: black;
+    text-align: center;
+}
+
+#content2 {
+    font-family: "Lucida Sans Unicode";
+    font-size: 15px;
+    color: black;
+    text-align: center;
+}
+
+#content3 {
+    font-family: "Lucida Sans Unicode";
+    font-size: 15px;
+    color: black;
+    text-align: center;
+}
+
+
+footer {
+    padding: 1.5em;
+    clear: left;
+    text-align: center;
+}
+div.container {
+    padding: 20px;
+    text-align: center;
+    width: 800px;
+    border: 2px solid black;
+    margin: auto;
+}

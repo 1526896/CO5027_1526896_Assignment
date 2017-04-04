@@ -1,0 +1,81 @@
+﻿body {
+    background-attachment: fixed;
+    background-image: url('../image/maxresdefault.jpg');
+    background-size: 100%;
+    margin: auto;
+}
+.nav{ 
+	text-align:center;
+	font-size: 150%;
+	display:inline;
+	padding:2em;
+    background:white;
+}
+.center{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+article{
+	margin-top: 10px;
+	margin-left:100px;
+	margin-right:100px;
+	padding:1em;
+	overflow:no-content;
+	background-color:white;
+	
+}
+div.container{
+	width:auto;
+	margin-left:auto;
+    margin-right:auto;
+}
+table{
+    margin-left:auto;
+    margin-right:auto;
+}
+div.container1{
+	width:100%;
+	background-color:white;
+	overflow: no-content;
+}
+div.container2 {
+    width: 100%;
+    text-align:center;
+    background-color: white;
+}
+.left{
+	float: left;
+	padding:10px;
+    display:block;
+    position:absolute;
+}
+.right{
+	float: right;
+	padding:10px;
+    display:block;
+}
+h2{
+	text-align:left;
+    font-family:sans-serif;
+	font-style:italic;
+    width: 432px;
+}
+h3{
+    font-family:"Edwardian Script ITC";
+    font-size:50px;
+    width: 594px;
+}
+h4{
+    text-align:left;
+    font-family:"Edwardian Script ITC";
+    font-size:30px;
+}
+h5 {
+    text-align: center;
+   
+}
+footer {
+    text-align: center;
+    background-color:white;
+}
