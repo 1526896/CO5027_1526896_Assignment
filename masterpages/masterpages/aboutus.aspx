@@ -3,7 +3,7 @@
     </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <article>
-    <h3>About Us</h3>
+    <h5>About Us</h5>
         <img src="image/kevin-plank_1_large.png" class="center" alt="Kevin Plank"/>
 <div class="container2">
 <p>Established in 1996 by previous University of Maryland football player Kevin Plank, Under Armour is the originator of execution attire - 

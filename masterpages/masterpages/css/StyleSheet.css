@@ -45,8 +45,9 @@ div.container1{
 div.container2 {
     width: 100%;
     text-align: center;
-
+    background-color: white;
     text-align: justify;
+    font-size: 24px;
 }
 .left{
 	float: left;
@@ -65,25 +66,27 @@ h2{
 	font-style:italic;
     width: 432px;
 }
-h3{
-    font-family:Eurose;
-    font-size:50px;
-  
-    
+h3 {
+    font-family: Eurose;
+    font-size: 50px;
+    background-color: white;
+    width: 739px;
 }
 h4 {
     text-align: left;
     font-family: Eurose;
     font-size: 30px;
+    background-color:white;
+    width: 196px;
 }
 h5 {
     text-align: center;
-   
+    font-family: Eurose;
+    font-size: 30px;
 }
 
 footer {
     text-align: center;
-  
 }
 #map {
     width:100%;
