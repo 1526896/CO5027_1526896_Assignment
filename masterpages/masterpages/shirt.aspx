@@ -6,11 +6,15 @@
         <h3>UA x Project Rock Blood Sweat Respect</h3>
           <table>
        
-            <tr><td><img src="image/the-rock-under-armour-shirt-1.jpg" width="500" height="500" /></td>
- 
-    <td><p>Men's Running Shoes</p>
-   <p><b>Color:</b> Blackout Navy(997) / Ultra Blue</p>
-    </td>
+            <tr><td><img src="image/the-rock-under-armour-shirt-1.jpg" width="500" height="500" alt="UA x Project Rock Blood Sweat Respect"/></td>
+                <td><p>Men's Short Sleeve Shirt</p>
+                    <p><b>Color:</b> Black(001) / Steeltown Gold</p>
+                    <p><b>Loose:</b> Fuller cut for complete comfort</p>
+                    <p>Charged Cotton has the comfort of cotton, but dries much faster</p>
+                    <p>4-way stretch fabrication allows greater mobility in any direction</p>
+                    <p>Moisture Transport System wicks sweat and dries fast</p>
+                    <p>6.0 oz Cotton/Polyester/Elastane Imported</p>
+                </td>
             </tr>
               </table>
         </div>
