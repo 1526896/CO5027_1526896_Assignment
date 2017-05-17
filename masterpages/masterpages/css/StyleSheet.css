@@ -30,12 +30,13 @@ div.container {
     width: auto;
     margin-left: auto;
     margin-right: auto;
-   
+    text-align: center;
 }
 table{
     margin-left:auto;
     margin-right:auto;
     background-color: white;
+    text-align: center;
 }
 div.container1{
 	width:100%;

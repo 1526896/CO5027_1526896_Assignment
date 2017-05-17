@@ -20,7 +20,7 @@ namespace masterpages
         protected void LgnBtn_Click(object sender, EventArgs e)
         {
             {
-                var identityDbContext = new IdentityDbContext("IdentityConnectionString");
+                var identityDbContext = new IdentityDbContext("db_1526896_co5027_asgConnectionString");
                 var userStore = new UserStore<IdentityUser>(identityDbContext);
                 var userManager = new UserManager<IdentityUser>(userStore);
                 var user = userManager.Find(txtUsername.Text, txtPassword.Text);
@@ -28,7 +28,7 @@ namespace masterpages
                 {
                     //Instruct user to log in
                     LogUserIn(userManager, user);
-                    Server.Transfer("privatepage.aspx", true);
+                    Server.Transfer("admin.aspx", true);
                 }
                 else
                 {

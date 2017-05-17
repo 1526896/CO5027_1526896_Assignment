@@ -31,6 +31,15 @@ namespace masterpages {
         protected global::System.Web.UI.WebControls.TextBox txtUsername;
         
         /// <summary>
+        /// RequiredFieldUsernameReg control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldUsernameReg;
+        
+        /// <summary>
         /// LblEmailReg control.
         /// </summary>
         /// <remarks>
@@ -49,6 +58,15 @@ namespace masterpages {
         protected global::System.Web.UI.WebControls.TextBox TextEmailReg;
         
         /// <summary>
+        /// RequiredFieldEmail control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldEmail;
+        
+        /// <summary>
         /// LblPasswordReg control.
         /// </summary>
         /// <remarks>
@@ -65,6 +83,15 @@ namespace masterpages {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtPassword;
+        
+        /// <summary>
+        /// RequiredFieldPasswordReg control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldPasswordReg;
         
         /// <summary>
         /// BtnReg control.

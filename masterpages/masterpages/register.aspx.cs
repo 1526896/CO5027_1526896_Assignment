@@ -19,7 +19,7 @@ namespace masterpages
         protected void BtnReg_Click(object sender, EventArgs e)
         {
             //create a dbcontext that specified the connection string
-            var identityDbContext = new IdentityDbContext("IdentityConnectionString");
+            var identityDbContext = new IdentityDbContext("db_1526896_co5027_asgConnectionString");
             //create user store and user manager
             var userStore = new UserStore<IdentityUser>(identityDbContext);
             var manager = new UserManager<IdentityUser>(userStore);

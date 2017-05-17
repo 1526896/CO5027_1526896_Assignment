@@ -26,11 +26,10 @@ namespace masterpages
 
             smtpClient.Credentials = credentials;
 
-            MailMessage msg = new MailMessage("underarmourmerchandise@gmail.com", txtEmail.Text);
+            MailMessage msg = new MailMessage("underarmourmerchandise@gmail.com", "underarmourmerchandise@gmail.com");
             msg.Subject = "Name: " + txtName.Text + "Subject: " + txtSubject.Text;
             msg.Body = txtMessage.Text;
-            smtpClient.Send(msg);
-
+            
             try
             {
                 smtpClient.Send(msg);
